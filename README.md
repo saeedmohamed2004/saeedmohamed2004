@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saeed Mohamed</h1>
 <h3 align="center">Back End Developer From Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="saeedmohamed2004" /> </p>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
-<p align="left"> <a href="https://twitter.com/saeedmohamed100" target="blank"><img src="https://img.shields.io/twitter/follow/saeedmohamed100?logo=twitter&style=for-the-badge" alt="saeedmohamed100" /></a> </p>
+
 
 - 🔭 I’m currently working on **Track Back End**
 
